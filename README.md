@@ -96,27 +96,35 @@ This is my **3rd** and current main GitHub account. Here are all of them 👇
 
 ## 💼 What I'm Doing Right Now
 
-```text
-const divansh = {
-    role: ["Freelance Web Developer", "Indie Game Dev", "AI Automation Builder"],
-    currentlyWorkingOn: "Dev Globals — my own web dev agency",
-    sideQuest: "Building a game in LÖVE2D",
-    exploring: "AI automations with n8n + REST APIs",
-    education: "BCA Core @ Lovely Professional University",
-};
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🧑‍💻 **Role** | Freelance Web Developer · Indie Game Dev · AI Automation Builder |
+| 🏢 **Currently working on** | **Dev Globals** — my own web dev agency |
+| 🎮 **Side quest** | Building a game in **LÖVE2D** |
+| 🤖 **Exploring** | AI automations with **n8n** + REST APIs |
+| 🎓 **Education** | BCA Core @ Lovely Professional University |
+
+</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivanshLpu&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=DivanshLpu&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+
+<sub>📌 These cards need at least one **public repo** to render data — once you push your first public repo they'll populate automatically.</sub>
+
 </div>
 
 <br/>
