@@ -113,8 +113,8 @@ This is my **3rd** and current main GitHub account. Here are all of them 👇
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
 
 <div align="center">
@@ -123,7 +123,7 @@ This is my **3rd** and current main GitHub account. Here are all of them 👇
 
 <div align="center">
 
-<sub>📌 These cards need at least one **public repo** to render data — once you push your first public repo they'll populate automatically.</sub>
+<sub>📌 These cards need at least one **public repo** to render data — once you push your first public repo they'll populate automatically. If cards ever show "Error Fetching Resource," it means the free stats service hit GitHub's rate limit — just refresh after a few minutes, or self-host your own instance for a permanent fix.</sub>
 
 </div>
 
