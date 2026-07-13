@@ -11,24 +11,21 @@
 ## 🧭 About Me
 
 - 🎓 Currently pursuing **BCA (Core)** at **Lovely Professional University (LPU)**
-- 🏫 Schooled at **Nakodar M.D. Dayanand Model School** — completed **11th (Commerce with Maths)** and **12th (Commerce)**
-- 💼 Running my own web development agency — **Dev Globals**
+- 💼 Founder & Freelance Web Developer at **Dev Globals**
 - 🎮 Part-time **Indie Game Developer**, building games in **LÖVE2D**
-- 🤖 Exploring **AI-powered automation** — RAG pipelines, LLM integration, NLP, OpenAI-compatible APIs, and LiveKit voice agents — alongside **n8n** and REST APIs
-- 🔌 Also love tinkering with **electronics & embedded systems** (Arduino, MicroPython)
+- 🤖 Exploring **AI-powered automation** — RAG pipelines, LLM integration, NLP, OpenAI-compatible APIs, and LiveKit voice agents alongside **n8n**
+- 🔌 Passionate about **electronics & embedded systems** (Arduino, MicroPython)
 - 📫 Reach me through the links below!
 
 <br/>
 
 ## 🌐 My GitHub Accounts
 
-This is my **3rd** and current main GitHub account. Here are all of them 👇
-
 <div align="center">
 
 | Account | Description |
 |---|---|
-| 🟢 [**DivanshLpu**](https://github.com/DivanshLpu) | Current account — LPU / active dev work |
+| 🟢 [**DivanshLpu**](https://github.com/DivanshLpu) | Current main account — LPU / active dev work |
 | 🔵 [**divanshgaba1**](https://github.com/divanshgaba1) | Previous account |
 | 🟣 [**Divanshgaba**](https://github.com/Divanshgaba) | First / original account |
 
@@ -40,85 +37,52 @@ This is my **3rd** and current main GitHub account. Here are all of them 👇
 
 ### Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
 ### Frameworks & Libraries
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/LÖVE2D-E64998?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LÖVE2D-E64998?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-### Data & GUI (Python)
+### AI, Data & Automation
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kivy-1A237E?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Database
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Integration-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LiveKit_Voice_Agents-FF2D55?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tiled_Map_Editor-4A4A4A?style=for-the-badge&logo=tiled&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tiled_Map_Editor-4A4A4A?style=for-the-badge&logo=tiled&logoColor=white"/>
 </p>
-
-### AI & Automation
-<p>
-<img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_Integration-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI--Compatible_APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LiveKit_Voice_Agents-FF2D55?style=for-the-badge&logo=webrtc&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-<br/>
-
-## 💼 What I'm Doing Right Now
-
-<div align="center">
-
-| | |
-|---|---|
-| 🧑‍💻 **Role** | Freelance Web Developer · Indie Game Dev · AI Automation Builder |
-| 🏢 **Currently working on** | **Dev Globals** — my own web dev agency |
-| 🎮 **Side quest** | Building a game in **LÖVE2D** |
-| 🤖 **Exploring** | AI automations with **n8n** + REST APIs |
-| 🎓 **Education** | BCA Core @ Lovely Professional University |
-
-</div>
 
 <br/>
 
@@ -130,43 +94,29 @@ A few live client projects built and shipped through **Dev Globals**:
 
 | Project | What it is |
 |---|---|
-| 🚗 [**PowerShifter**](https://powershifter.in/) | WooCommerce store for automotive performance parts, body kits & exterior/interior upgrades |
-| ✨ [**Street Gloss**](https://streetgloss.in/) | WooCommerce store for premium car care & detailing products, based in Nakodar, Punjab |
-| 🌾 [**Popli Global**](https://popliglobal.com/) | Export company site for Indian spices, agro products & fresh vegetables, built for global buyers |
-| ⚙️ [**Trover Pharmamach**](https://trovertec.com/) | Corporate/catalog site for a manufacturer & exporter of pharmaceutical machinery |
-| 🏘️ [**Nakodar Online**](https://nakodar.online/) | A local web platform for my hometown, Nakodar, Punjab |
+| 🚗 [**PowerShifter**](https://powershifter.in/) | WooCommerce store for automotive performance parts & upgrades |
+| ✨ [**Street Gloss**](https://streetgloss.in/) | WooCommerce store for premium car care & detailing products |
+| 🌾 [**Popli Global**](https://popliglobal.com/) | Export company site for Indian spices, agro products & fresh vegetables |
+| ⚙️ [**Trover Pharmamach**](https://trovertec.com/) | Corporate/catalog site for pharmaceutical machinery manufacturer |
+| 🏘️ [**Nakodar Online**](https://nakodar.online/) | Local web platform for Nakodar, Punjab |
 
 </div>
 
 <br/>
 
+## 📊 GitHub Stats
+
 <div align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=DivanshLpu&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=DivanshLpu&theme=tokyonight&hide_border=true&count_private=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivanshLpu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/DivanshLpu/DivanshLpu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Generated directly from GitHub's own contribution data via a GitHub Actions workflow (<a href="https://github.com/Platane/snk">Platane/snk</a>) — no third-party stats service, no caching lag. Runs on a schedule and refreshes automatically.</sub>
-
-</div>
-
-<div align="center">
-
-<sub>📌 Stats need at least one **public repo** (or "show private contributions" enabled in your GitHub profile settings) to populate. Cards refresh roughly every 30 min — if a number looks stuck, hard-refresh the page (Ctrl/Cmd+Shift+R), since both browsers and GitHub's own image proxy cache these aggressively. If a card shows "Error Fetching Resource," the free stats service hit GitHub's rate limit — wait a few minutes and refresh.</sub>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivanshLpu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 <br/>
@@ -174,15 +124,11 @@ A few live client projects built and shipped through **Dev Globals**:
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://github.com/DivanshLpu"><img src="https://img.shields.io/badge/GitHub-DivanshLpu-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/divanshgaba1"><img src="https://img.shields.io/badge/GitHub-divanshgaba1-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Divanshgaba"><img src="https://img.shields.io/badge/GitHub-Divanshgaba-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DivanshLpu"><img src="https://img.shields.io/badge/GitHub-DivanshLpu-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D1D5DB?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center">
-
-### ⭐ Thanks for stopping by — feel free to explore my repos!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
 </div>
