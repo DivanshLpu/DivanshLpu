@@ -80,7 +80,14 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+### 🗄️ Databases & Data Structures
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Key_Value_Store-8B5CF6?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arrays-8B5CF6?style=for-the-badge&logo=database&logoColor=white"/>
 
 ### 🤖 AI & Automation
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -94,6 +101,12 @@
 <img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge&logo=robot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gen_AI-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_Compatible-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+### 🖥️ OS, Servers & Terminals
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 
 ### 🧰 Tools & Platforms
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
