@@ -14,7 +14,7 @@
 - 🏫 Schooled at **Nakodar M.D. Dayanand Model School** — completed **11th (Commerce with Maths)** and **12th (Commerce)**
 - 💼 Running my own web development agency — **Dev Globals**
 - 🎮 Part-time **Indie Game Developer**, building games in **LÖVE2D**
-- 🤖 Exploring **AI-powered automation** workflows with **n8n** and REST APIs
+- 🤖 Exploring **AI-powered automation** — RAG pipelines, LLM integration, NLP, OpenAI-compatible APIs, and LiveKit voice agents — alongside **n8n** and REST APIs
 - 🔌 Also love tinkering with **electronics & embedded systems** (Arduino, MicroPython)
 - 📫 Reach me through the links below!
 
@@ -90,6 +90,18 @@ This is my **3rd** and current main GitHub account. Here are all of them 👇
 <img src="https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tiled_Map_Editor-4A4A4A?style=for-the-badge&logo=tiled&logoColor=white"/>
+</p>
+
+### AI & Automation
+<p>
+<img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Integration-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI--Compatible_APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LiveKit_Voice_Agents-FF2D55?style=for-the-badge&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 <br/>
@@ -110,7 +122,23 @@ This is my **3rd** and current main GitHub account. Here are all of them 👇
 
 <br/>
 
-## 📊 GitHub Stats
+## 🚀 Projects & Live Work
+
+A few live client projects built and shipped through **Dev Globals**:
+
+<div align="center">
+
+| Project | What it is |
+|---|---|
+| 🚗 [**PowerShifter**](https://powershifter.in/) | WooCommerce store for automotive performance parts, body kits & exterior/interior upgrades |
+| ✨ [**Street Gloss**](https://streetgloss.in/) | WooCommerce store for premium car care & detailing products, based in Nakodar, Punjab |
+| 🌾 [**Popli Global**](https://popliglobal.com/) | Export company site for Indian spices, agro products & fresh vegetables, built for global buyers |
+| ⚙️ [**Trover Pharmamach**](https://trovertec.com/) | Corporate/catalog site for a manufacturer & exporter of pharmaceutical machinery |
+| 🏘️ [**Nakodar Online**](https://nakodar.online/) | A local web platform for my hometown, Nakodar, Punjab |
+
+</div>
+
+<br/>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true"/>
