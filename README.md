@@ -141,17 +141,21 @@ A few live client projects built and shipped through **Dev Globals**:
 <br/>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=DivanshLpu&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=DivanshLpu&theme=tokyonight&hide_border=true&count_private=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivanshLpu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 <div align="center">
 
-<sub>📌 These cards need at least one **public repo** to render data — once you push your first public repo they'll populate automatically. If cards ever show "Error Fetching Resource," it means the free stats service hit GitHub's rate limit — just refresh after a few minutes, or self-host your own instance for a permanent fix.</sub>
+<sub>📌 Stats need at least one **public repo** (or "show private contributions" enabled in your GitHub profile settings) to populate. Cards refresh roughly every 30 min — if a number looks stuck, hard-refresh the page (Ctrl/Cmd+Shift+R), since both browsers and GitHub's own image proxy cache these aggressively. If a card shows "Error Fetching Resource," the free stats service hit GitHub's rate limit — wait a few minutes and refresh.</sub>
 
 </div>
 
