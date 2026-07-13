@@ -155,6 +155,16 @@ A few live client projects built and shipped through **Dev Globals**:
 
 <div align="center">
 
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/DivanshLpu/DivanshLpu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Generated directly from GitHub's own contribution data via a GitHub Actions workflow (<a href="https://github.com/Platane/snk">Platane/snk</a>) — no third-party stats service, no caching lag. Runs on a schedule and refreshes automatically.</sub>
+
+</div>
+
+<div align="center">
+
 <sub>📌 Stats need at least one **public repo** (or "show private contributions" enabled in your GitHub profile settings) to populate. Cards refresh roughly every 30 min — if a number looks stuck, hard-refresh the page (Ctrl/Cmd+Shift+R), since both browsers and GitHub's own image proxy cache these aggressively. If a card shows "Error Fetching Resource," the free stats service hit GitHub's rate limit — wait a few minutes and refresh.</sub>
 
 </div>
