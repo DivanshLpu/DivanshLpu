@@ -212,19 +212,11 @@
 
 <div align="center">
   
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivanshLpu&theme=github_dark" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivanshLpu&theme=github_dark" width="100%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivanshLpu&theme=github_dark" width="100%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivanshLpu&theme=github_dark" width="100%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivanshLpu&theme=github_dark" width="100%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivanshLpu&theme=github_dark&utcOffset=5.5" width="100%">
-  
-  <br/><br/>
-  
-  <img src="https://streak-stats.demolab.com?user=DivanshLpu&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivanshLpu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
   
   <br/><br/>
   
