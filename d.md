@@ -211,9 +211,12 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284150-456c8e1b-8e1a-4c2e-8a2a-c6d4c8c2c0f0.gif" width="30"> GitHub Stats
 
 <div align="center">
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivanshLpu&theme=github_dark)
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"/>
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivanshLpu&theme=github_dark&utcOffset=5.5)
   
   <br/><br/>
   
