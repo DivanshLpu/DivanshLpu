@@ -212,16 +212,11 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"/>
-  
-  <br/><br/>
-  
-  <img src="https://streak-stats.demolab.com?user=DivanshLpu&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivanshLpu&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivanshLpu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DivanshLpu&theme=github_dark&utcOffset=5.5)
   
   <br/><br/>
   
