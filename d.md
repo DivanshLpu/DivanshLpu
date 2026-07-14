@@ -212,7 +212,7 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivanshLpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivanshLpu&theme=github_dark)
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DivanshLpu&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&cache_seconds=1800"/>
   
   <br/><br/>
