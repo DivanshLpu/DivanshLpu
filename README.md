@@ -45,6 +45,36 @@
 
 </div>
 
+## 🎮 Newly Launched Game
+
+<div align="center">
+
+# 🚀 Indie Game is Live!
+
+<a href="https://github.com/DivanshLpu/indie-game/releases">
+  <img src="https://img.shields.io/badge/⬇️%20Download%20Now-Latest%20Release-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release">
+</a>
+
+<br><br>
+
+> **My latest 2D indie game is now available!**
+>
+> Explore the world, try the gameplay, and let me know what you think.
+
+⭐ **If you enjoy it, consider starring the repository and sharing your feedback.**
+
+<a href="https://github.com/DivanshLpu/indie-game">
+  <img src="https://img.shields.io/badge/🎮%20View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+</a>
+
+<a href="https://github.com/DivanshLpu/indie-game/releases">
+  <img src="https://img.shields.io/badge/📦%20Latest%20Release-Try%20It%20Now-success?style=for-the-badge" alt="Latest Release">
+</a>
+
+</div>
+
+---
+
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-0398950e-4c9f-4c99-b5b0-c3b3d5c9b1d0.gif" width="30"> Tech Stack
