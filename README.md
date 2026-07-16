@@ -75,6 +75,109 @@
 
 ---
 
+
+# 🚀 Gaba Programming Language
+
+**Gaba** is a lightweight, interpreted programming language built completely from scratch using **Dart**.
+
+It features its own:
+
+- ⚡ Lexer
+- 🌳 Parser
+- 🧩 Abstract Syntax Tree (AST)
+- 🖥️ Interpreter
+- 📦 Runtime
+- 🛠️ Command Line Interface (CLI)
+
+Gaba is designed to grow into a complete programming language with its own ecosystem, package manager, installer, modules, and native compiler.
+
+---
+
+# 📥 Download Gaba
+
+Download the latest **Gaba Installer** for Windows:
+
+### 👉 https://github.com/DivanshLpu/samples/raw/refs/heads/main/gabainstaller.exe
+
+Simply download the installer, run it, and follow the installation steps.
+
+The installer will:
+
+- 📥 Download the latest Gaba interpreter
+- 📂 Install Gaba on your computer
+- 🚀 Prepare your system for running `.gaba` programs
+
+---
+
+# ✨ Current Features
+
+- Variables (`let`)
+- Assignment
+- Numbers
+- Strings
+- Booleans
+- Arithmetic Expressions
+- Comparison Operators
+- `if` / `else`
+- `while` Loops
+- Functions
+- Parameters
+- Return Values (`give`)
+- User Input (`ask`)
+- Console Output (`say`)
+
+---
+
+# 🏁 Getting Started
+
+Create a file called:
+
+```text
+hello.gaba
+```
+
+Example:
+
+```gaba
+fun greet(name) {
+
+    say("Hello")
+
+    say(name)
+
+}
+
+greet("World")
+```
+
+Run your program:
+
+```bash
+gaba run hello.gaba
+```
+
+---
+
+# 🌱 Project Status
+
+Current Version
+
+```
+v0.1.0 Alpha
+```
+
+Gaba is under active development, and new language features are added regularly.
+
+---
+
+# ❤️ Thank You
+
+Thank you for trying Gaba!
+
+Every download, bug report, feature suggestion, and contribution helps improve the language.
+
+---
+
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-0398950e-4c9f-4c99-b5b0-c3b3d5c9b1d0.gif" width="30"> Tech Stack
