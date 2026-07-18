@@ -97,7 +97,7 @@ Gaba is designed to grow into a complete programming language with its own ecosy
 
 Download the latest **Gaba Installer** for Windows:
 
-### 👉 [![build passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com/DivanshLpu/gaba)
+### 👉 [![build passing](https://img.shields.io/badge/GABA-DOWNLOAD-brightgreen?style=for-the-badge)](https://github.com/DivanshLpu/gaba)
 
 Simply download the installer, run it, and follow the installation steps.
 
