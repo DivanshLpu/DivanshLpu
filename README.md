@@ -97,7 +97,7 @@ Gaba is designed to grow into a complete programming language with its own ecosy
 
 Download the latest **Gaba Installer** for Windows:
 
-### 👉 https://github.com/DivanshLpu/samples/raw/refs/heads/main/gabainstaller.exe
+### 👉 [![build passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com/DivanshLpu/gaba)
 
 Simply download the installer, run it, and follow the installation steps.
 
@@ -163,18 +163,10 @@ gaba run hello.gaba
 Current Version
 
 ```
-v0.1.0 Alpha
+v1.3.6 Alpha
 ```
 
 Gaba is under active development, and new language features are added regularly.
-
----
-
-# ❤️ Thank You
-
-Thank you for trying Gaba!
-
-Every download, bug report, feature suggestion, and contribution helps improve the language.
 
 ---
 
