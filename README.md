@@ -163,7 +163,7 @@ gaba run hello.gaba
 Current Version
 
 ```
-v1.3.6 Alpha
+v1.3.7 Alpha
 ```
 
 Gaba is under active development, and new language features are added regularly.
